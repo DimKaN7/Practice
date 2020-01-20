@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=KW4SykleMvo
+
+http://qaru.site/questions/12534/how-do-i-get-the-current-gps-location-programmatically-in-android
+
+https://stackoverflow.com/questions/33865445/gps-location-provider-requires-access-fine-location-permission-for-android-6-0/33866959
+
+https://dajver.blogspot.com/2012/12/android.html
+
